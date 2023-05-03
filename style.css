@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+margin-top: 50px;
+color: purple;
+}
+#counter{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+
+}
+#btns{
+    text-align: center;
+    margin-top: 40px;
+}
+button{
+   padding: 10px;
+   cursor: pointer;
+   border-radius: 20px;
+   font-size: 20px;
+   margin-left: 10px;
+   background-color:purple;
+   color:#fff;
+   border:none;
+}
